@@ -1,6 +1,6 @@
 **Why FIDO2 MFA is your security upgrade**
 
-**Why it matters:** Executives are prime targets for cyberattacks. Your online accounts—email, banking, social media—are treasure troves for cybercriminals. Traditional MFA methods (like SMS codes) are vulnerable to phishing and SIM-swapping attacks. FIDO2, a cutting-edge authentication standard, provides unparalleled protection by eliminating passwords and integrating strong device-based security.
+**Why it matters:** Executives are prime targets for cyberattacks, and sophisticated attackers prize access to _any_ of your accounts, business _or_ personal. Your online presence — email, banking, shopping, social media, etc. — are treasure troves for cybercriminals. Traditional MFA methods (like SMS codes) are vulnerable to phishing and SIM-swapping attacks. FIDO2, a cutting-edge authentication standard, provides unparalleled protection by eliminating passwords and integrating strong device-based security.
 
 **The big picture:** FIDO2-enabled MFA secures your accounts using cryptographic keys stored on hardware devices or built into smartphones. Even if a hacker obtains your password, FIDO2 blocks access without your physical device.
 
@@ -54,6 +54,11 @@
   1. Log in to your Amazon account.
   2. Go to "Your Account > Login & Security."
   3. Under "Two-Step Verification," add a security key.
+ 
+- **Investments (Fidelity)**
+  1. Open your account [Security](https://digital.fidelity.com/ftgw/digital/security/dashboard/view) page.
+  2. Scroll down to **Multi-factor authentication at login** and enable the `Add a security step to your login` feature
+  3. In your Fidelity app on your smartphone, tap your profile icon in the upper right, scroll down to **Security** (under `Settings`), and ensure that the **Biometric login** function is enabled (if not, the app will walk you through the process).
 
 **2. Invalidate old sessions:**
 
@@ -69,5 +74,8 @@
 
 ---
 
-**What’s next:** Make a habit of periodically reviewing account activity and maintaining physical control of your FIDO2 devices. For a comprehensive list of services supporting FIDO2 and MFA, check out [WebAuthn.io’s Directory](https://webauthn.io/directory/) and [TwoFactorAuth.org](https://twofactorauth.org/). Upgrading to FIDO2 is not just a tech move; it’s a business security imperative.
+**What’s next:** Make a habit of periodically reviewing account activity and maintaining physical control of your FIDO2 devices. For a comprehensive list of services supporting FIDO2 and MFA, 
+check out [2FAwebsites.github.io](https://2fawebsites.github.io/), [2fa.directory](https://2fa.directory/us/), or [passkeys.directory](https://passkeys.directory/). 
+
+Your personal accounts are high-value targets. Upgrading to FIDO2 is not just a tech move; it’s a business security imperative.
 
