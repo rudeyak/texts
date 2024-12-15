@@ -1,6 +1,6 @@
-🔐**Your 2025 resolution for cybersecurity**
+## 🔐Your 2025 resolution for cybersecurity
 
-Executives are prime targets for cyberattacks. Sophisticated attackers prize access to _any_ of your accounts, business _or_ personal. The single best thing you can do to protect yourself and the firm is strengthen your online account security. 
+The single best thing you can do to protect yourself and the firm from cyber attacks in 2025 is strengthen your online account security. Executives are prime targets for cyberattacks. Sophisticated cyber criminals covet access to _any_ of your accounts, business _or_ personal. 
 
 **Why it matters:** Traditional MFA methods (e.g. those 6-digit codes received via text or email, or typed in from an app) are vulnerable to phishing and SIM-swapping attacks. FIDO2, a cutting-edge authentication standard, provides unparalleled protection by eliminating passwords and integrating strong device-based security. FIDO2-enabled MFA secures your accounts using cryptographic keys stored on hardware devices or built into smartphones. Even if a hacker obtains your password, FIDO2 blocks access without your physical device.
 
@@ -11,9 +11,9 @@ Executives are prime targets for cyberattacks. Sophisticated attackers prize acc
 
 ---
 
-**Zoom in: Setting up FIDO2 MFA**
+### Zoom in: Securing your core personal accounts
 
-**1. Secure your key accounts:**
+#### 1. Secure your key accounts:
 
 - **Email (Gmail):**
   1. Visit [Google Account Security](https://myaccount.google.com/security).
@@ -60,7 +60,7 @@ Executives are prime targets for cyberattacks. Sophisticated attackers prize acc
   2. Scroll down to **Multi-factor authentication at login** and enable the `Add a security step to your login` feature
   3. In your Fidelity app on your smartphone, tap your profile icon in the upper right, scroll down to **Security** (under `Settings`), and ensure that the **Biometric login** function is enabled (if not, the app will walk you through the process).
 
-**2. Invalidate old sessions:**
+#### 2. Attention to detail: invalidate old sessions:
 
 - **Why:** Unauthorized access often persists via older, less-secure sessions. Clearing these ensures only secure logins remain active.
 
@@ -77,5 +77,5 @@ Executives are prime targets for cyberattacks. Sophisticated attackers prize acc
 **What’s next:** Make a habit of periodically reviewing account activity and maintaining physical control of your FIDO2 devices. For a comprehensive list of services supporting FIDO2 and MFA, 
 check out [2FAwebsites.github.io](https://2fawebsites.github.io/), [2fa.directory](https://2fa.directory/us/), or [passkeys.directory](https://passkeys.directory/). 
 
-Your personal accounts are high-value targets. Upgrading to FIDO2 is not just a tech move; it’s a business security imperative.
+Your personal accounts are high-value targets. Upgrading to FIDO2 is not just a smart tech move; it’s a business security imperative.
 
