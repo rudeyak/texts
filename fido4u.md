@@ -1,4 +1,4 @@
-**Why FIDO2 MFA is your security upgrade**
+🔐**Why FIDO2 MFA is your security upgrade**
 
 **Why it matters:** Executives are prime targets for cyberattacks, and sophisticated attackers prize access to _any_ of your accounts, business _or_ personal. Your online presence — email, banking, shopping, social media, etc. — are treasure troves for cybercriminals. Traditional MFA methods (like SMS codes) are vulnerable to phishing and SIM-swapping attacks. FIDO2, a cutting-edge authentication standard, provides unparalleled protection by eliminating passwords and integrating strong device-based security.
 
