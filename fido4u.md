@@ -1,6 +1,6 @@
 ### 🔐Your 2025 cyber security resolution!
 
-The single best thing you can do to protect yourself and the firm from cyber attacks in 2025 is strengthen your online account security. Executives are prime targets for cyberattacks. Sophisticated cyber criminals covet access to _any_ of your accounts, business _or_ personal. 
+The single best thing you can do to protect yourself and the firm from cyber attacks in 2025 is strengthen your online account security. Executives are prime targets for cyberattacks. Sophisticated cyber criminals covet access to _any_ of your accounts, business _and_ personal. 
 
 **Why it matters:** Traditional MFA methods (e.g. those 6-digit codes received via text or email, or typed in from an app) are vulnerable to phishing and SIM-swapping attacks. FIDO2, a cutting-edge authentication standard, provides unparalleled protection by eliminating passwords and integrating strong device-based security. FIDO2-enabled MFA secures your accounts using cryptographic keys stored on hardware devices or built into smartphones. Even if a hacker obtains your password, FIDO2 blocks access without your physical device.
 
