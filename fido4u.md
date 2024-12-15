@@ -13,7 +13,7 @@ The single best thing you can do to protect yourself and the firm from cyber att
 
 #### Zoom in: Securing your core personal accounts
 
-**Steps you can take to best secure your key personal accounts:
+Steps you can take to best secure your key personal accounts:
 
 - **Email (Gmail):**
   1. Visit [Google Account Security](https://myaccount.google.com/security).
@@ -60,7 +60,7 @@ The single best thing you can do to protect yourself and the firm from cyber att
   2. Scroll down to **Multi-factor authentication at login** and enable the `Add a security step to your login` feature
   3. In your Fidelity app on your smartphone, tap your profile icon in the upper right, scroll down to **Security** (under `Settings`), and ensure that the **Biometric login** function is enabled (if not, the app will walk you through the process).
 
-** Paying attention to detail: invalidate old sessions!
+Paying attention to detail: invalidate old sessions!
 
 Unauthorized access often persists via older, less-secure sessions. Your account can be logged in from many places at once, which is convenient both for you _and_ potentially to a cyber criminal who has gained access. Clearing these ensures only your known, secure logins remain active. Here's how:
 
