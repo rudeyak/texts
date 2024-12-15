@@ -1,4 +1,4 @@
-## 🔐Your New Year's resolution for cybersecurity
+### 🔐Your 2025 resolution for cybersecurity
 
 The single best thing you can do to protect yourself and the firm from cyber attacks in 2025 is strengthen your online account security. Executives are prime targets for cyberattacks. Sophisticated cyber criminals covet access to _any_ of your accounts, business _or_ personal. 
 
@@ -11,9 +11,9 @@ The single best thing you can do to protect yourself and the firm from cyber att
 
 ---
 
-### Zoom in: Securing your core personal accounts
+#### Zoom in: Securing your core personal accounts
 
-#### 1. Secure your key accounts:
+##### 1. Secure your key accounts:
 
 - **Email (Gmail):**
   1. Visit [Google Account Security](https://myaccount.google.com/security).
@@ -60,7 +60,7 @@ The single best thing you can do to protect yourself and the firm from cyber att
   2. Scroll down to **Multi-factor authentication at login** and enable the `Add a security step to your login` feature
   3. In your Fidelity app on your smartphone, tap your profile icon in the upper right, scroll down to **Security** (under `Settings`), and ensure that the **Biometric login** function is enabled (if not, the app will walk you through the process).
 
-#### 2. Attention to detail: invalidate old sessions:
+##### 2. Attention to detail: invalidate old sessions:
 
 - **Why:** Unauthorized access often persists via older, less-secure sessions. Clearing these ensures only secure logins remain active.
 
