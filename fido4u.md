@@ -1,4 +1,4 @@
-### 🔐Your 2025 resolution for cybersecurity
+### 🔐Your 2025 cybersecurity resolution!🔐
 
 The single best thing you can do to protect yourself and the firm from cyber attacks in 2025 is strengthen your online account security. Executives are prime targets for cyberattacks. Sophisticated cyber criminals covet access to _any_ of your accounts, business _or_ personal. 
 
@@ -13,7 +13,7 @@ The single best thing you can do to protect yourself and the firm from cyber att
 
 #### Zoom in: Securing your core personal accounts
 
-##### 1. Secure your key accounts:
+**Steps you can take to best secure your key personal accounts:
 
 - **Email (Gmail):**
   1. Visit [Google Account Security](https://myaccount.google.com/security).
@@ -52,7 +52,7 @@ The single best thing you can do to protect yourself and the firm from cyber att
 
 - **Shopping (Amazon):**
   1. Log in to your Amazon account.
-  2. Go to "Your Account > Login & Security."
+  2. Go to [Your Account > Login & Security](https://www.amazon.com/ax/account/manage)
   3. Under "Two-Step Verification," add a security key.
  
 - **Investments (Fidelity)**
@@ -60,16 +60,15 @@ The single best thing you can do to protect yourself and the firm from cyber att
   2. Scroll down to **Multi-factor authentication at login** and enable the `Add a security step to your login` feature
   3. In your Fidelity app on your smartphone, tap your profile icon in the upper right, scroll down to **Security** (under `Settings`), and ensure that the **Biometric login** function is enabled (if not, the app will walk you through the process).
 
-##### 2. Attention to detail: invalidate old sessions:
+** Paying attention to detail: invalidate old sessions!
 
-- **Why:** Unauthorized access often persists via older, less-secure sessions. Clearing these ensures only secure logins remain active.
+Unauthorized access often persists via older, less-secure sessions. Your account can be logged in from many places at once, which is convenient both for you _and_ potentially to a cyber criminal who has gained access. Clearing these ensures only your known, secure logins remain active. Here's how:
 
-- **How:**
   - **Gmail:** [Review devices](https://myaccount.google.com/device-activity) and sign out of any unfamiliar sessions.
   - **Outlook:** Visit [Microsoft Account Devices](https://account.microsoft.com/devices) and sign out of all unnecessary sessions.
   - **Facebook:** Check active sessions [here](https://www.facebook.com/settings?tab=security) and click "Log out of all sessions."
   - **Twitter:** Go to [Twitter Apps and Sessions](https://twitter.com/settings/sessions) and log out of unfamiliar devices.
-  - **Amazon:** Go to "Your Devices" in your account settings and deregister unfamiliar devices.
+  - **Amazon:** Go to [Secure Your Account](https://www.amazon.com/a/c/secureyouraccount) and tap the `Sign out non-Amazon devices` link.
   - **Other services:** Look for "Active Sessions" or "Logged-In Devices" in account security settings and log out of all unnecessary devices.
 
 ---
