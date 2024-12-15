@@ -1,4 +1,4 @@
-### 🔐Your 2025 cybersecurity resolution!🔐
+### 🔐Your 2025 cyber security resolution!
 
 The single best thing you can do to protect yourself and the firm from cyber attacks in 2025 is strengthen your online account security. Executives are prime targets for cyberattacks. Sophisticated cyber criminals covet access to _any_ of your accounts, business _or_ personal. 
 
