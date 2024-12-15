@@ -57,8 +57,8 @@ Steps you can take to best secure your key personal accounts:
  
 - **Investments (Fidelity)**
   1. Open your account [Security](https://digital.fidelity.com/ftgw/digital/security/dashboard/view) page.
-  2. Scroll down to **Multi-factor authentication at login** and enable the `Add a security step to your login` feature
-  3. In your Fidelity app on your smartphone, tap your profile icon in the upper right, scroll down to **Security** (under `Settings`), and ensure that the **Biometric login** function is enabled (if not, the app will walk you through the process).
+  2. Scroll down to **Multi-factor authentication at login** and enable the "Add a security step to your login" feature
+  3. In your Fidelity app on your smartphone, tap your profile icon in the upper right, scroll down to **Security** (under "Settings"), and ensure that the **Biometric login** function is enabled (if not, the app will walk you through the process).
 
 Paying attention to detail: invalidate old sessions!
 
@@ -68,7 +68,7 @@ Unauthorized access often persists via older, less-secure sessions. Your account
   - **Outlook:** Visit [Microsoft Account Devices](https://account.microsoft.com/devices) and sign out of all unnecessary sessions.
   - **Facebook:** Check active sessions [here](https://www.facebook.com/settings?tab=security) and click "Log out of all sessions."
   - **Twitter:** Go to [Twitter Apps and Sessions](https://twitter.com/settings/sessions) and log out of unfamiliar devices.
-  - **Amazon:** Go to [Secure Your Account](https://www.amazon.com/a/c/secureyouraccount) and tap the `Sign out non-Amazon devices` link.
+  - **Amazon:** Go to [Secure Your Account](https://www.amazon.com/a/c/secureyouraccount) and tap the "Sign out non-Amazon devices" link.
   - **Other services:** Look for "Active Sessions" or "Logged-In Devices" in account security settings and log out of all unnecessary devices.
 
 ---
