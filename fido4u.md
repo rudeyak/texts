@@ -1,12 +1,12 @@
-🔐**Why FIDO2 MFA is your security upgrade**
+🔐**Your 2025 resolution for cybersecurity**
 
-**Why it matters:** Executives are prime targets for cyberattacks, and sophisticated attackers prize access to _any_ of your accounts, business _or_ personal. Your online presence — email, banking, shopping, social media, etc. — are treasure troves for cybercriminals. Traditional MFA methods (like SMS codes) are vulnerable to phishing and SIM-swapping attacks. FIDO2, a cutting-edge authentication standard, provides unparalleled protection by eliminating passwords and integrating strong device-based security.
+Executives are prime targets for cyberattacks. Sophisticated attackers prize access to _any_ of your accounts, business _or_ personal. The single best thing you can do to protect yourself and the firm is strengthen your online account security. 
 
-**The big picture:** FIDO2-enabled MFA secures your accounts using cryptographic keys stored on hardware devices or built into smartphones. Even if a hacker obtains your password, FIDO2 blocks access without your physical device.
+**Why it matters:** Traditional MFA methods (e.g. those 6-digit codes received via text or email, or typed in from an app) are vulnerable to phishing and SIM-swapping attacks. FIDO2, a cutting-edge authentication standard, provides unparalleled protection by eliminating passwords and integrating strong device-based security. FIDO2-enabled MFA secures your accounts using cryptographic keys stored on hardware devices or built into smartphones. Even if a hacker obtains your password, FIDO2 blocks access without your physical device.
 
 **Key benefits:**
-1. **Phishing-proof authentication:** FIDO2 ensures only authorized devices can access your accounts.
-2. **Ease of use:** Logging in becomes faster and more secure.
+1. **Phishing-proof authentication:** FIDO2 ensures only _you_, using _your_ authorized devices can access your accounts.
+2. **Ease of use:** Logging in becomes faster and more secure (there's nothing faster than tapping your finger on a reader or smiling at your smartphone).
 3. **Versatility:** Works with a wide range of services, from Google and Microsoft to banking platforms.
 
 ---
